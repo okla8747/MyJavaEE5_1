@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="FirstJavaEE" target="13" />
+      <module name="JavaEE-springMVC" target="13" />
+      <module name="JavaEEspringMVC" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
